@@ -56,6 +56,7 @@ This backend powers all API endpoints, authentication, gamification, and real-ti
 
 ## 🗂️ Folder Structure
 
+ ```
 backend/
 ├── controllers/
 │ ├── authController.ts
@@ -100,7 +101,7 @@ backend/
 ├── app.ts
 └── server.ts
 
-
+```
 ---
 
 ## ⚙️ Environment Variables
