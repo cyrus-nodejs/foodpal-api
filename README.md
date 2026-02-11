@@ -47,7 +47,7 @@ This backend powers all API endpoints, authentication, gamification, and real-ti
 | **Framework** | Express.js |
 | **Database** | MongoDB + Mongoose |
 | **Auth** | JWT + Google OAuth2 |
-| **AI Integration** | OpenAI Embeddings |
+| **AI Integration** | FastAPI  | Transformers
 | **Real-Time** | Socket.io |
 | **Cache/Scaling (optional)** | Redis |
 | **Docs** | Swagger (OpenAPI 3.0) |
